@@ -14,6 +14,6 @@ Pitman — это классическая игра-головоломка, из
 - Файл для эмулятора MZxEmu: [Скачать](docs/mz700_pitman.zip)
 - Скриншоты из эмулятора:
 
-[1.bmp](https://github.com/user-attachments/files/31634846/1.bmp)
-[2.bmp](https://github.com/user-attachments/files/31634857/2.bmp)
-[3.bmp](https://github.com/user-attachments/files/31634860/3.bmp)
+<img width="320" height="320" alt="gifgit" src="https://github.com/user-attachments/files/31634846/1.bmp" />
+<img width="320" height="320" alt="gifgit" src="https://github.com/user-attachments/files/31634857/2.bmp" />
+<img width="320" height="320" alt="gifgit" src="https://github.com/user-attachments/files/31634860/3.bmp" />
