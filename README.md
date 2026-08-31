@@ -1,1 +1,1 @@
-# pitman-picocalc
+# Pitman для PicoCalc
