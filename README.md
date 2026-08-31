@@ -13,4 +13,7 @@ Pitman — это классическая игра-головоломка, из
 - Листинг моддера BdR (1985): [Посмотреть](docs/pitman-1985.txt)
 - Файл для эмулятора MZxEmu: [Скачать](docs/mz700_pitman.zip)
 - Скриншоты из эмулятора:
-  
+
+[1.bmp](https://github.com/user-attachments/files/31634846/1.bmp)
+[2.bmp](https://github.com/user-attachments/files/31634857/2.bmp)
+[3.bmp](https://github.com/user-attachments/files/31634860/3.bmp)
